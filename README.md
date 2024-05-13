@@ -1,13 +1,13 @@
+(last updated May 12, 2024)
 # `log.info("Hello world, this is M1N3R.")`
 I'm a Splatoon addict who also cobbles together random tools from time to time to help make my life easier.
 I also publish those tools here from time to time in the hopes that they can make yours easier too.
 It can also ease the mind to know that my applications won't go spying on you. Have a look around--the proof is in the ~~pudding~~source code.
 
 ## 👨‍💻 What am I up to?
-### Rewriting Kolkra
-The [Splatfest server](https://discord.gg/cs42uFePRw)'s old/current Kolkra bot, under the unfulfilled codename [splatfest-queue-system](https://github.com/m1n0rm1n3r/splatfest-queue-system), never got to reach its full potential thanks to a clunky codebase.
-I'm rewriting it from scratch, migrating from [Pycord](https://github.com/Pycord-Development/pycord/) to [discord.py](https://github.com/Rapptz/discord.py), from [SurrealDB](https://github.com/surrealdb/surrealdb) to [MongoDB](https://github.com/mongodb/mongo), and in general moving over to better-supported, more stable rocks to build my new house ~~of cards~~ upon.
-The new Kolkra bot's components may also become parts of other server-specific bots, and even a public one in the future! 👀
+### Clicking circles
+Over the past two weeks, osu! has become my latest addiction. I still suck at it, but hey! I got the game less than 2 weeks ago. C'est la vie.
+If you want to see just how much I suck, and/or just how addicted I've become, you can call me... [PickSquid](https://osu.ppy.sh/users/35859242). Just remember...I'm not Dutch.
 
 ## 💬 How to get in touch with me?
 ### Discord for fastest response, email may also work
@@ -17,8 +17,8 @@ Email may also work to drop me a line if Discord's a no-go, and I'll get to it i
 ## 🔜 What am I planning?
 ### An as-of-yet unnamed SurrealDB ODM
 SurrealDB is one of the coolest databases I've ever seen.
-I'm thinking about creating a strongly-typed ODM for SurrealDB on top of [Pydantic](https://github.com/pydantic/pydantic), in a similar vein to [Beanie](https://github.com/roman-right/beanie) (my new favorite data modelling library for MongoDB, which I'm using in Kolkra-NG) and [SQLModel](https://github.com/tiangolo/sqlmodel).
-First problem is...I don't have a good name for it that wasn't already yoinked on PyPI. Drop me a line if you have any ideas. 🤔
+I'm thinking about creating a strongly-typed ODM for SurrealDB on top of [Pydantic](https://github.com/pydantic/pydantic), in a similar vein to [Beanie](https://github.com/roman-right/beanie) (my new favorite data modelling library for MongoDB, which I'm using in [Kolkra-NG](https://github.com/m1n0rm1n3r/kolkra-ng)) and [SQLModel](https://github.com/tiangolo/sqlmodel).
+My first problem is one that's notoriously one of the two hardest things in computer science next to cache invalidation...I don't have a good name for it that wasn't already yoinked on PyPI. Drop me a line if you have any ideas. 🤔
 
 ## 📚 What am I learning?
 ### Nix and NixOS
